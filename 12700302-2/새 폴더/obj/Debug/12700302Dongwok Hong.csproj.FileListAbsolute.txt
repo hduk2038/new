@@ -1,0 +1,24 @@
+C:\Users\Administer\Desktop\새 폴더\bin\Debug\Assignment2.exe.config
+C:\Users\Administer\Desktop\새 폴더\bin\Debug\Assignment2.exe
+C:\Users\Administer\Desktop\새 폴더\bin\Debug\Assignment2.pdb
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\12700302Dongwok Hong.csprojAssemblyReference.cache
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\Assignment2.About.resources
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\Assignment2.LoginForm.resources
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\Assignment2.TextEditorForm.resources
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\12700302Dongwok Hong.csproj.GenerateResource.cache
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\12700302Dongwok Hong.csproj.CoreCompileInputs.cache
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\Assignment2.exe
+C:\Users\Administer\Desktop\새 폴더\obj\Debug\Assignment2.pdb
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\12700302Dongwok Hong.csprojAssemblyReference.cache
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\Assignment2.About.resources
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\Assignment2.LoginForm.resources
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\Assignment2.TextEditorForm.resources
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\12700302Dongwok Hong.csproj.GenerateResource.cache
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\12700302Dongwok Hong.csproj.CoreCompileInputs.cache
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\Assignment2.exe
+C:\Users\Administer\Desktop\12700302\새 폴더\obj\Debug\Assignment2.pdb
+C:\Users\Administer\Desktop\12700302\새 폴더\bin\Debug\Assignment2.exe.config
+C:\Users\Administer\Desktop\12700302\새 폴더\bin\Debug\Assignment2.exe
+C:\Users\Administer\Desktop\12700302\새 폴더\bin\Debug\Assignment2.pdb
